@@ -6,8 +6,6 @@ Features:
 
 *Spawn selection screen with: location, class, character and model
 
-*Camera location support for locations
-
 *Full featured spawn management
 
 Screenshots: http://imgur.com/Yrw8ySv,LFOfALl,THvmjts,gWHde8q,XDM3Wlu
